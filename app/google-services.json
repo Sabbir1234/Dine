@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "36702169703",
+    "firebase_url": "https://dine-7bb56.firebaseio.com",
+    "project_id": "dine-7bb56",
+    "storage_bucket": "dine-7bb56.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36702169703:android:7be1fde21fc36ec1",
+        "android_client_info": {
+          "package_name": "com.arifamzad.dine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "36702169703-nhb9ljvnvplq5uq049g0vampfg1s23nq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.arifamzad.dine",
+            "certificate_hash": "0ab5b72c59cba5d8bd0aa7a1592d977db6f8b8f5"
+          }
+        },
+        {
+          "client_id": "36702169703-a62kqrkgg9dqf5gi16teb03ocng03ui6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZTvn4tbl565hlo_nZa7TihmPlWkYZIJE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "36702169703-a62kqrkgg9dqf5gi16teb03ocng03ui6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

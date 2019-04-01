@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#E2653A</color>
+    <color name="colorPrimaryDark">#E2653A</color>
+    <color name="colorAccent">#CE552B</color>
+    <color name="HighlightGREEN">#E2653A</color>
+    <color name="HighlightGREENDARK">#C25029</color>
+    <color name="HighlightRED">#FFF44336</color>
+    <color name="BUTTONTEXTCOLOR">#ffffff</color>
+    <color name="BUTTONTEXTCOLOCHOC">#5F391C</color>
+    <color name="colorPrimary1">#008577</color>
+    <color name="colorPrimaryDark1">#00574B</color>
+    <color name="HighlightGREEN1">#4CAF50</color>
+    <color name="HighlightRED1">#FFF44336</color>
+</resources>
